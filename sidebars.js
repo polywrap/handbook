@@ -5,9 +5,31 @@ module.exports = {
       id: 'welcome',
     },
     {
+      type: 'doc',
+      id: 'vision-purpose-values',
+    },
+    {
       type: 'category',
-      label: 'Community Handbook',
-      items: ['welcome/vision-purpose-values'],
+      label: 'The Polywrap DAO',
+      items: ['dao/what-is-a-dao', 'dao/working-groups', 'dao/governance'],
+    },
+    {
+      type: 'category',
+      label: 'Contributor Handbook',
+      items: [
+        'contribution-guide/onboarding',
+        'contribution-guide/compensation',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Polywrap Improvement Proposal (PIP) Overview',
+      items: ['pip/steps', 'pip/editors', 'pip/template'],
+    },
+    {
+      type: 'category',
+      label: 'Enacted PIPs',
+      items: [],
     },
   ],
 };
