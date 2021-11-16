@@ -10,16 +10,16 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'The Polywrap DAO',
-      items: ['dao/what-is-a-dao', 'dao/working-groups', 'dao/governance'],
-    },
-    {
-      type: 'category',
       label: 'Contributor Handbook',
       items: [
         'contribution-guide/onboarding',
         'contribution-guide/compensation',
       ],
+    },
+    {
+      type: 'category',
+      label: 'The Polywrap DAO',
+      items: ['dao/what-is-a-dao', 'dao/working-groups', 'dao/governance'],
     },
     {
       type: 'category',
