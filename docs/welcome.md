@@ -11,7 +11,9 @@ The Polywrap DAO community handbook is the central repository for how we run our
 
 The Polywrap DAO was formed to stewart the development of the Polywrap toolchain. Our set of developer tools enables web 3.0 developers to more easily build decentralized applications (dApps). For a deep dive into Polywrap, visit our [developer documentation](#).
 
-Here is a talk at EthCC giving an overview of our technology:
+For a short presentation deck of Polywrap, visit: [Polywrap Presentation Deck](https://www.canva.com/design/DAEp9ePJUQ0/HaHaeo5uC3ERY0iyuLPHMw/view?utm_content=DAEp9ePJUQ0&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent).
+
+Here is a talk by one of our original engineers at EthCC giving an overview of our technology:
 
 <iframe width="675" height="380" src="https://www.youtube.com/embed/uOJznNDxcck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
