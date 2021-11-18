@@ -12,6 +12,7 @@ module.exports = {
       type: 'category',
       label: 'Contributor Handbook',
       items: [
+        'contribution-guide/overview',
         'contribution-guide/onboarding',
         'contribution-guide/compensation',
       ],
