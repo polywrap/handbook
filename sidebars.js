@@ -25,7 +25,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Polywrap Improvement Proposal (PIP) Overview',
-      items: ['pip/steps', 'pip/editors', 'pip/template'],
+      items: ['pip/steps', 'pip/editors', 'pip/pip-template'],
     },
     {
       type: 'category',

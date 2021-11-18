@@ -1,4 +1,0 @@
----
-id: 'template'
-title: Template
----
