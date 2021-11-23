@@ -8,11 +8,13 @@ slug: /vision-purpose-values
 
 > Where do we all want to go with this? What is the shared vision?
 
+To drive mass adoption of Web3
+
 ## Our Mision 
 
 > What are we doing today that helps us achieve the vision?
 
-We are a **community** building **revolutionary** tools that will drive **mass adoption** of web3.
+We are a **community** building **revolutionary** tools that improve developer experience to drive **mass adoption** of web3.
 
 ## Our Purpose
 
