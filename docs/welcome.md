@@ -5,7 +5,7 @@ description: A handbook for Polywrap's community
 slug: /
 ---
 
-The Polywrap DAO community handbook is the central repository for how we run our DAO and serves as a way to onboard contributors. It's completely open source and we welcome any feedback. Please make a merge request to suggest improvements or add clarifications. Please use issues to ask questions.
+The Polywrap DAO community handbook is the central repository for how we run our DAO and serves as a way to onboard contributors. It's completely open source and we welcome any feedback.
 
 ## Handbook Contents
 
@@ -18,8 +18,6 @@ The Polywrap DAO community handbook is the central repository for how we run our
 <!-- TODO: add link to developer documentation -->
 
 Polywrap is a set of developer tools that significantly improves the experience for those building on web3. For a deep dive into our technology, visit our [developer documentation](#).
-
-For a short presentation deck, visit: [Polywrap Presentation Deck](https://www.canva.com/design/DAEp9ePJUQ0/HaHaeo5uC3ERY0iyuLPHMw/view?utm_content=DAEp9ePJUQ0&utm_campaign=designshare&utm_medium=link&utm_source=publishpresent).
 
 Here is a talk by one of our original engineers giving an overview of our technology:
 
@@ -41,7 +39,7 @@ You can also direct message one of our server admins:
 
 ## Contributing to the Polywrap DAO
 
-We're always looking for community members to bring their talent and creativity to build the future of Web 3.
+We're always looking for community members to bring their talent and creativity to build the future of web3.
 
 There are two types of contributors: Community and Core.
 
