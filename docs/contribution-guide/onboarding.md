@@ -1,4 +1,0 @@
----
-id: 'onboarding'
-title: Onboarding
----

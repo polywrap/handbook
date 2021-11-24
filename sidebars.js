@@ -10,11 +10,10 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Contributor Handbook',
+      label: 'Contributor Guide',
       items: [
-        'contribution-guide/overview',
-        'contribution-guide/onboarding',
-        'contribution-guide/compensation',
+        'contributor-guide/community-contributors',
+        'contributor-guide/core-contributors',
       ],
     },
     {
