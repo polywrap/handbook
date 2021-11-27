@@ -10,7 +10,7 @@ We welcome and greatly appreciate anyone joining our community to contribute to 
 - [Introducing Yourself to the Community](#introducing-yourself-to-the-community)
 - [The Community Bounty Board](#the-community-bounty-board)
 - [Creating Your Own Bounties](#creating-your-own-bounties)
-- [Community Hackathons](#)
+- [Community Hackathons](#community-hackathons)
 
 > Note:
 > Community contributors work on **short-term** one-off projects for the Polywrap DAO. If you're looking for longer term projects, consider joining our team as a [core contributor](/contributor-guide/core-contributors).
