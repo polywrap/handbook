@@ -25,7 +25,7 @@ The first place to check for opportunities to contribute and be rewarded is the 
 
 ## Creating Your Own Bounties
 
-Don't see a bounty that fits what you're interested in or what your skillset is capable of? You can create your own bounty!
+Don't see a bounty that fits what you're interested in? You can create your own bounty!
 
 In our `#intros` channel, let us know what skills you can contribute to the project. One of our team members will reach out to you to determine how you can be a part of the project.
 

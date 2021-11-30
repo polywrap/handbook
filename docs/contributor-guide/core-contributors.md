@@ -9,9 +9,9 @@ Core contributor are those who have long-term projects that they work on. For a 
 
 This guide will help you understand the following.
 
-- [Roles and Responsibilities of a Core Contributor](#)
-- [Working Groups (Pods)](#)
-- [Milestones](#)
+- [Roles and Responsibilities of a Core Contributor](#roles-and-responsibilities-of-a-core-contributor)
+- [Expectations from a Core Contributor](#expectations-from-a-core-contributor)
+- [Working Groups (Pods)](#working-groups-pods)
 
 ## Roles and Responsibilities of a Core Contributor
 
@@ -29,39 +29,6 @@ Here are some expectations from a core contributor:
 - Log estimated contributor hours and tasks on a spreadsheet
 - Assist other core contributors with their project if they have time
 
-## Working Groups (Pods)
+### Working Groups (Pods)
 
-Core contributors work in working groups or "pods". These pods each have their own roadmap with milestones to work towards. Here are the current Polywrap pods:
-
-### Technology
-
-> This pod works on product design and development of anything related to technology.
-
-#### CORE TOOLCHAIN
-
-This pod works on the core toolchain, with the code found in our [monorepo](https://github.com/polywrap/monorepo).
-
-Projects in this pod include:
-
-- The Command Line Interface (CLI)
-- Package maintenance
-- Creating demos and templates
-
-#### HUB
-
-The hub is Polywrap's web3 aggregator where users could view deployed wrappers and test them out.
-
-#### INTEGRATIONS
-
-The integrations pod works with the web3 ecosystem on various wrappers. Some wrappers already completed or in the works include:
-
-- Ethereum
-- ENS
-- Tezos
-- and many more
-
-#### DOCUMENTATION
-
-The documentation pod includes technical writing and demos for anything related to Polywrap's technology.
-
-### Operations
+Core contributors are part of working groups or "pods". Each pod has its own roadmap and milestones. To learn more about pods in detail, visit our [Working Groups (Pods)](/dao/working-groups) page.
