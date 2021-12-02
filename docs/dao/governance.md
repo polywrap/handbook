@@ -1,4 +1,0 @@
----
-id: 'governance'
-title: Governance
----
