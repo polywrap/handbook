@@ -47,7 +47,7 @@ There are two types of contributors: Community and Core.
 
 These are members of the community who are interesting in contributing to the DAO on a short-term project. The projects can be ones that are defined by the Polywrap team or one that you're interested in proposing to the DAO.
 
-For more information on contributing as a **Community Contributor**, visit our [Community Contribution guide](/contributor-guide/community-contributor).
+For more information on contributing as a **Community Contributor**, visit our [Community Contribution guide](/contributor-guide/community-contributors).
 
 ### Core Contributors
 
