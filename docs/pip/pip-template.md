@@ -3,7 +3,7 @@ id: 'pip-template'
 title: Template (PIP)
 ---
 
-> Google Doc for easy markdown copy pasting: [https://docs.google.com/document/d/1JwlCWgxa9Kma4S1vvA_4HIW0wodkXhdcA-ln4FteD50/edit?usp=sharing](https://docs.google.com/document/d/1JwlCWgxa9Kma4S1vvA_4HIW0wodkXhdcA-ln4FteD50/edit?usp=sharing)
+> Easy copy pasting through HackMD markdown document: [https://hackmd.io/@kngo/B1qLASdDt](https://hackmd.io/@kngo/B1qLASdDt)
 
 **PIP Number:** [to be assigned]  
 **Title: **[PIP title]  

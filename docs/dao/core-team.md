@@ -7,14 +7,17 @@ title: Polywrap Core Team
 
 The table below lists our core contributors.
 
-| Name      | Working Group(s)              | Role                    |
-| --------- | ----------------------------- | ----------------------- |
-| dOrgJelli | Core Toolchain, Hub, Registry | Core Engineer           |
-| Kobby     | Core Toolchain                | Rust Engineer           |
-| nerfZael  | Registry                      | Smart Contract Engineer |
-| JoeBinter | Hub                           | Hub Engineer            |
-| Ramil     | Hub                           | Hub Engineer            |
-| Kris      | Integrations                  | Full-Stack Engineer     |
-| Kevin     | Operations                    | Operations              |
-| Media     | Operations                    | Partnerships            |
-| Orishim   | Operations                    | Strategy                |
+| Name      | Working Group(s)              | Profile                                       |
+| --------- | ----------------------------- | --------------------------------------------- |
+| dOrgJelli | Core Toolchain, Hub, Registry | [Github](https://github.com/dorgjelli)        |
+| Kobby     | Core Toolchain                | [Github](https://github.com/krisbitney)       |
+| Namesty   | Core Toolchain, Registry      | [Github](https://github.com/namesty)          |
+| Niraj     | Core Toolchain                | [Github](https://github.com/Niraj-Kamdar)     |
+| Kobby     | Core Toolchain                | [Github](https://github.com/kobby-pentangeli) |
+| nerfZael  | Registry                      | [Github](https://github.com/nerfZael)         |
+| JoeBinter | Hub                           | N/A                                           |
+| Ramil     | Hub                           | N/A                                           |
+| Kris      | Integrations                  | [Github](https://github.com/krisbitney)       |
+| Kevin     | Operations                    | [Twitter](https://twitter.com/kevinngo_la)    |
+| Media     | Operations                    | [Twitter](https://twitter.com/DaoAdvocate)    |
+| Orishim   | Operations                    | [Twitter](https://twitter.com/orishim)        |
