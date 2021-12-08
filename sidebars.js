@@ -31,5 +31,10 @@ module.exports = {
       label: 'Enacted PIPs',
       items: [],
     },
+    {
+      type: 'category',
+      label: 'DAO Operations',
+      items: ['dao-ops/contributor-payments'],
+    },
   ],
 };

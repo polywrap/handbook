@@ -34,6 +34,10 @@ The integrations pod works with the web3 ecosystem on various wrappers. Some wra
 - Tezos
 - and many more
 
+#### REGISTRY
+
+The registry serves as an on-chain package management system tailored to the wrapper ecosystem.
+
 #### DOCUMENTATION
 
 The documentation pod includes technical writing and demos for anything related to Polywrap's technology.
