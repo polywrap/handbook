@@ -23,6 +23,11 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Spending Proposals',
+      items: ['spending/steps', 'spending/spending-template'],
+    },
+    {
+      type: 'category',
       label: 'Polywrap Improvement Proposal (PIP) Overview',
       items: ['pip/steps', 'pip/editors', 'pip/pip-template'],
     },
