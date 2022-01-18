@@ -36,13 +36,10 @@ Once a PIP Editor has reviewed the proposal for basic adherence to PIP guideline
 **4. Discussion and Minimum Waiting Period**
 The forum is the formal area to debate the merits of each PIP. While the PIP is on the forum in 'Draft' state, the PIP author is free to make changes to the proposal. Once the PIP author is satisfied with the proposal, they should change the proposal status from 'Draft' to 'Proposed', and contact an PIP editor to schedule a snapshot vote.
 
-The waiting period before a vote can be called is 48 hours.
-
 **5. Calling a Vote**
 All PIPs are confirmed or rejected by the Polywrap DAO via Snapshot Vote. The PIP author is responsible for deciding a snapshot vote date with the following criteria in mind:
 
-- The Snapshot voting period may not begin until at least 48 hours after the PIP has been posted.
-- The PIP has a voting period of 3 days where token holders may vote FOR or AGAINST.
+- The PIP has a voting period of 2 days where token holders may vote FOR or AGAINST.
 - For standard PIP to pass
   - 5% of the circulating `WRAP-IOU` tokens must participate
   - 50% or more must vote FOR
