@@ -3,11 +3,6 @@ id: 'spending-template'
 title: Template (Spending)
 ---
 
-**Title: **[Proposal title]  
-**Author(s):** [a list of author(s) names, usernames]  
-**Created:** [date created on]  
-‌
-
 ### **Simple Summary**
 
 ‌

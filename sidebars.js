@@ -28,12 +28,15 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Polywrap Improvement Proposal (PIP) Overview',
-      items: ['pip/steps', 'pip/editors', 'pip/pip-template'],
+      label: 'Governance Proposal Process Overview',
+      items: [
+        'governance-proposals/steps',
+        'governance-proposals/proposal-template',
+      ],
     },
     {
       type: 'category',
-      label: 'Enacted PIPs',
+      label: 'Enacted Governance Proposals',
       items: [],
     },
     {
