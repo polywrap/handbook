@@ -19,8 +19,8 @@ The author would then notify DAO members to discuss the proposal by messaging th
 **3. Snapshot**
 After the merits of the proposal are discussed, the author can make the changes suggested by the other DAO members before posting on Snapshot for DAO voting.
 
-- The proposal has a voting period of 2 days where token holders may vote FOR or AGAINST.
-- For standard PIP to pass
+- The proposal has a voting period of at least 2 days where token holders may vote FOR or AGAINST.
+- For a governance proposal to pass
   - 5% of the circulating `WRAP-IOU` tokens must participate
   - 50% or more must vote FOR
   - At least 4 tokenholders must vote
