@@ -5,37 +5,19 @@ description: A handbook for Polywrap's community
 slug: /
 ---
 
-The Polywrap DAO community handbook is the central repository for how we run our DAO and serves as a way to onboard contributors. It's completely open source and we welcome any feedback.
+Welcome to our community handbook! This handbook will help you learn more about our project and show you how you can get involved in our DAO.
 
-## Handbook Contents
+## What's Polywrap?
 
-- [What is Polywrap?](#what-is-polywrap)
-- [Joining the Polywrap Community](#joining-the-polywrap-community)
-- [Contributing to the DAO](#contributing-to-the-dao)
+Polywrap is a set of developer tools that significantly improves the development experience of those building on web3. For a deep dive into our technology, visit our [developer documentation](https://docs.polywrap.io/).
 
-## What is Polywrap?
+<!-- ## Joining the Polywrap Community
 
-<!-- TODO: add link to developer documentation -->
-
-Polywrap is a set of developer tools that significantly improves the experience for those building on web3. For a deep dive into our technology, visit our [developer documentation](#).
-
-Here is a talk by one of our original engineers giving an overview of our technology:
-
-<iframe width="675" height="380" src="https://www.youtube.com/embed/uOJznNDxcck" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Joining the Polywrap Community
-
-Whether you're a seasoned developer or someone who is interested in learning more about our technology, we invite you to join our community.
+Whether you're a seasoned developer or someone who's interested in learning more about our technology, we invite you to join our community.
 
 The best way to get in contact with us is through our [Discord server](https://discord.com/invite/bGsqQrNhqd).
 
 Once you've joined, feel free to drop an intro in the `#intros` channel or let us know how you'd like to contribute.
-
-You can also direct message one of our server admins:
-
-| Discord handle | Role             |
-| -------------- | ---------------- |
-| @keeevin#7783  | DAO Internal Ops |
 
 ## Contributing to the Polywrap DAO
 
@@ -53,4 +35,4 @@ For more information on contributing as a **Community Contributor**, visit our [
 
 These are contributors who are part of the core team. They work on long-term projects that have detailed roadmap and milestones.
 
-Visit our [Core Contributor guide](/contributor-guide/core-contributors) to get started.
+Visit our [Core Contributor guide](/contributor-guide/core-contributors) to get started. -->

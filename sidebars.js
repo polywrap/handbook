@@ -18,7 +18,7 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'The Polywrap DAO',
+      label: 'Polywrap DAO',
       items: ['dao/core-team', 'dao/working-groups'],
     },
     {

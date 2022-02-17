@@ -7,17 +7,18 @@ title: Polywrap Core Team
 
 The table below lists our core contributors.
 
-| Name      | Working Group(s)              | Profile                                       |
-| --------- | ----------------------------- | --------------------------------------------- |
-| dOrgJelli | Core Toolchain, Hub, Registry | [Github](https://github.com/dorgjelli)        |
-| Kobby     | Core Toolchain                | [Github](https://github.com/krisbitney)       |
-| Namesty   | Core Toolchain, Registry      | [Github](https://github.com/namesty)          |
-| Niraj     | Core Toolchain                | [Github](https://github.com/Niraj-Kamdar)     |
-| Kobby     | Core Toolchain                | [Github](https://github.com/kobby-pentangeli) |
-| nerfZael  | Registry                      | [Github](https://github.com/nerfZael)         |
-| JoeBinter | Hub                           | N/A                                           |
-| Ramil     | Hub                           | N/A                                           |
-| Kris      | Integrations                  | [Github](https://github.com/krisbitney)       |
-| Kevin     | Operations                    | [Twitter](https://twitter.com/kevinngo_la)    |
-| Media     | Operations                    | [Twitter](https://twitter.com/DaoAdvocate)    |
-| Orishim   | Operations                    | [Twitter](https://twitter.com/orishim)        |
+| Contributor | Role       | Profile                                       |
+| ----------- | ---------- | --------------------------------------------- |
+| dOrgJelli   | Engineer   | [Github](https://github.com/dorgjelli)        |
+| nerfZael    | Engineer   | [Github](https://github.com/nerfZael)         |
+| Kobby       | Engineer   | [Github](https://github.com/kobby-pentangeli) |
+| Kris        | Engineer   | [Github](https://github.com/krisbitney)       |
+| Namesty     | Engineer   | [Github](https://github.com/namesty)          |
+| Niraj       | Engineer   | [Github](https://github.com/Niraj-Kamdar)     |
+| Colin       | Engineer   | [Github](https://github.com/cedricwaxwing)    |
+| Ramil       | Engineer   | [Github](https://github.com/ramilexe)         |
+| Media       | Operations | [Twitter](https://twitter.com/DaoAdvocate)    |
+| Keeevin     | Operations | [Twitter](https://twitter.com/kevinngo_la)    |
+| Orishim     | Operations | [Twitter](https://twitter.com/orishim)        |
+| Evan        | Operations | [Twitter](https://twitter.com/evanjacobs)     |
+| Eugene      | Operations | N/A                                           |
