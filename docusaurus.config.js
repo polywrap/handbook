@@ -13,13 +13,13 @@ const customFields = {
 module.exports = {
   title: 'Polywrap (Pre-alpha)',
   tagline: 'The Universal Web3 Integration Standard',
-  url: 'https://docs.polywrap.io',
+  url: 'https://handbook.polywrap.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.png',
   organizationName: 'polywrap',
-  projectName: 'documentation',
+  projectName: 'handbook',
   themeConfig: {
     sidebarCollapsible: true,
     colorMode: {
@@ -106,7 +106,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/web3-api/documentation/tree/main',
+          editUrl: 'https://github.com/polywrap/handbook/tree/main',
           routeBasePath: '/',
         },
         theme: {
