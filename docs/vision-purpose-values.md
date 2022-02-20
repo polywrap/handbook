@@ -33,4 +33,4 @@ We believe code styling is just as important as its functionality. Our code shou
 We will only introduce processes as-needed and will thoughtfully weigh the trade-offs of each one.
 
 **Sustainable Velocity**  
-We have a timeline for project milestones that give us time for stable, quality releases but also keeps us accountable for keeping up a healthy velocity.
+We set a timeline for project milestones that allow for a stable, quality releases. This also keeps us accountable for maintaining a healthy progress.
