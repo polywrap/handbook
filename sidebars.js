@@ -11,38 +11,17 @@ module.exports = {
     {
       type: 'category',
       label: 'Contributor Guide',
-      items: [
-        'contributor-guide/community-contributors',
-        'contributor-guide/core-contributors',
-      ],
+      items: ['contributor-guide/community-contributors'],
     },
     {
       type: 'category',
       label: 'Polywrap DAO',
-      items: ['dao/core-team', 'dao/working-groups'],
+      items: ['dao/committed'],
     },
     {
       type: 'category',
-      label: 'Spending Proposals',
-      items: ['spending/steps', 'spending/spending-template'],
-    },
-    {
-      type: 'category',
-      label: 'Governance Proposal Process Overview',
-      items: [
-        'governance-proposals/steps',
-        'governance-proposals/proposal-template',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Enacted Governance Proposals',
-      items: [],
-    },
-    {
-      type: 'category',
-      label: 'DAO Operations',
-      items: ['dao-ops/contributor-payments'],
+      label: 'Proposal Process Overview',
+      items: ['proposals/steps', 'proposals/proposal-template'],
     },
   ],
 };
